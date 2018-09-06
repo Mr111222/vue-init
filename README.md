@@ -8,6 +8,8 @@
 # install dependencies
 npm install
 
+# npm run dll (打包一次变不在需要打包了,生成dist文件)
+
 # serve with hot reload at localhost:8080
 npm run dev
 
