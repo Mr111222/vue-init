@@ -22,6 +22,5 @@ export default {
 		top: 0;
 		width: 100%;
 		height: 100%;
-		transition: all 0.5s cubic-bezier(0.55, 0, 0.1, 1);
 	}
 </style>
